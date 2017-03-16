@@ -15,7 +15,6 @@
     * [CSRFToken](core-resource/tokens/csrftoken.md)
   * [Resource](core-resource/resource.md)
   * [File](core-resource/file.md)
-* [API Design](api-design.md)
 * [Connect](connect.md)
   * [空处理](connect/null-handle.md)
   * [API Response](connect/api-response.md)

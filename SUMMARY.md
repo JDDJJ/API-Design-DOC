@@ -20,4 +20,6 @@
   * [API Response](connect/api-response.md)
   * [数据编码](connect/shu-ju-bian-ma.md)
 * [Action](action.md)
+* [App端Token解决方案](appduan-token-jie-jue-fang-an.md)
+* [Synchronized](synchronized.md)
 
